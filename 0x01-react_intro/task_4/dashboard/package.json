@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://LANTANA01.github.io/dashboard/",
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://LANTANA01.github.io/dashboard/",
   "browserslist": {
     "production": [
       ">0.2%",
